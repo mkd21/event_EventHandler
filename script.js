@@ -8,6 +8,7 @@
 //     console.log("clicked");
 // });
 
+
 //                 // way 2  adding attribute in HTML direclty and accessing as event
 
 function directExecutor()
@@ -15,7 +16,9 @@ function directExecutor()
     console.log("Hovered on me");
 }
 
-//         // way 3 
+
+
+//         // way 3  shorthand for writing event handlers
 
 // clickProperty.onclick = function exec(){
 //     console.log("Type 3 of execution");
